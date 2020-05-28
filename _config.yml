@@ -95,6 +95,9 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 
+layout:     keynote
+iframe:     "http://huangxuan.me/js-module-7day/"
+
 
 # Friends
 friends: [
