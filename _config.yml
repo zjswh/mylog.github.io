@@ -12,7 +12,7 @@ github_repo: "https://github.com/zjswh/shengweihao.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "醉の晓的blog"
-sidebar-avatar: http://oss.wxyswh.top/jiemugou.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://xflyfish.oss-cn-hangzhou.aliyuncs.com/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
